@@ -8,6 +8,6 @@
 ### Counter page
 ![Counter page](screenshoots/counter_page.png)
 ### Graphics page
-![Graphics page](screenshoots/graphics.png)
-### ANimated Graphics page
+![Graphics page](screenshoots/graphics_page.png)
+### Animated Graphics page
 ![Animated Graphics page](screenshoots/animated_graphics_page.gif)

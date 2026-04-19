@@ -21,7 +21,7 @@ class MyDrawer extends StatelessWidget {
           ),
           DrawerItem(
             title: "Counter",
-            icon: Icon(Icons.countertops),
+            icon: Icon(Icons.numbers),
             onValidate: (){
               Navigator.pop(context);
               Navigator.pushNamed(context, "/counter");
